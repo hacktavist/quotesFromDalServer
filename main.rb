@@ -1,7 +1,7 @@
 require 'httparty'
 require 'sinatra'
 #require 'json'
-require 'Twitter'
+require 'twitter'
 module Dal
 
   class QuotesFromDal < Sinatra::Base
