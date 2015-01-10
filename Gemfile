@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
-gem httparty
-gem sinatra
-gem Twitter
+gem 'httparty'
+gem 'sinatra'
+gem 'twitter'
